@@ -1,15 +1,8 @@
 .place__url-heading {
   font-weight: 400;
   font-size: 12px;
-  line-height: 12px;
+  line-height: 1;
   letter-spacing: 2px;
   margin-bottom: 12px;
   color: #AAAAAA;
-}
-
-@media (max-width: 767px) {
-  .place__url-heading {
-    font-size: 12px;
-    line-height: 12px;
-  }
 }
