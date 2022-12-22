@@ -1,0 +1,26 @@
+.footer__link {
+  margin-right: 18px;
+  color: #FFF;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  text-decoration: none;
+}
+
+@media (max-width: 767px) {
+  .footer__link {
+    margin-bottom: 32px;
+    flex-direction: column;
+    justify-content: unset;
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .footer__link:last-of-type {
+    margin-bottom: 48px;
+  }
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+}
