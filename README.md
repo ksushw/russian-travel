@@ -21,4 +21,4 @@
 
 **Ссылка на GitHub Pages**
 
-https://ksushw.github.io/
+https://ksushw.github.io/russian-travel/
