@@ -20,7 +20,7 @@
   }
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 767px) {
   .header {
     padding: 16px 16px 0;
   }

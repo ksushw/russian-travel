@@ -3,15 +3,3 @@
   aspect-ratio: 1/0.625;
   object-fit: contain;
 }
-
-@media (min-width: 768px) and (max-width: 1023px) {
-  .lead__image {
-    width: calc(100% + 24px * 2);
-  }
-}
-
-@media (max-width: 767px) {
-  .lead__image {
-    width: calc(100% + 16px * 2);
-  }
-}
