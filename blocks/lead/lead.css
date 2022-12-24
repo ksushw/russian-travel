@@ -1,5 +1,5 @@
 .lead {
-  padding-top: 48px;
+  padding-top: 56px;
   box-sizing: content-box;
   display: flex;
   flex-direction: column;
@@ -9,6 +9,7 @@
 
 @media (max-width: 1279px) {
   .lead {
+    padding-top: 48px;
     width: 100%;
   }
 }
