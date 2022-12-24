@@ -19,6 +19,6 @@
 - Вычисляемые значения
 - [Методология БЭМ](https://ru.bem.info/methodology/)
 
-**Ссылка на GitHub**
+**Ссылка на GitHub Pages**
 
-https://github.com/ksushw/russian-travel
+https://ksushw.github.io/
